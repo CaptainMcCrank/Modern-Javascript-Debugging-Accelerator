@@ -1,4 +1,4 @@
-# H1 Modern Javascript Debugging Accelerator
+# Modern Javascript Debugging Accelerator
 While trying to build an alexa skill with my non-existant Node skills, I discovered that command line tools with interactive debuggers for javascript don't seem to exist.  I was reluctant to build a web page to test node scripts, but apparently that's the only way to do so if I want the power of Chrome devtools' javascript debugger.
 
 ## Usage
